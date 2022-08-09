@@ -3,7 +3,6 @@
 <div align="center">
 <p>✉️5uhwann27@gmail.com✉️<p>
 <br>
-<br>
 <h3>Tech Stack<h1>
 <hr>
 <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=white"/>
