@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           #plugin
-          user: 5uhwannn
+          user: 5uhwann
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
