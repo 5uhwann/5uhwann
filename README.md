@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello✋ I'm 5uhwann</h1>
+  <h1>Hi✋ I'm 5uhwann</h1>
   <h3>Preferred Skill Stack</h3> 
   <div display="flex">
     <img src="https://img.shields.io/badge/JAVA-E8E8E8?style=flat-square&logo=JAVA&logoColor=white"/>
